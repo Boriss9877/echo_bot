@@ -1,0 +1,3 @@
+bot_API = '5684605763:AAH3TqGOFVgK_vt1A6wgZMqDlfXKBKUQLOk'
+
+on_off = False
