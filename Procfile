@@ -1,1 +1,1 @@
-web: python mai.py
+worker: python mai.py
